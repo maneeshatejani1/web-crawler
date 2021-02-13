@@ -4,8 +4,7 @@ import tldextract
 list_of_references = []
 # main_url = 'https://www.apple.com/'
 # main_url= 'http://www.carameltechstudios.com/'
-# main_url = 'http://learnyouahaskell.com/'
-main_url = 'https://www.coursera.org/learn/machine-learning'
+main_url = 'http://learnyouahaskell.com/'
 # main_url = 'https://www.syedfaaizhussain.com/'
 global count
 count = 1
