@@ -1,2 +1,8 @@
-# web-crawler
-a simple crawler built in python that recursively downloads the complete website when given a starting url
+# Title
+Web Crawler
+# Description
+a simple script that crawls and downloads the complete website when given a starting URL
+# Pre-Requisites 
+python3
+# Dependencies
+requests,tldextract,beautifulsoup4
